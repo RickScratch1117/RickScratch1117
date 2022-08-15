@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RickScratch1117
+- 👀 I’m interested in HTML and CSS
+- 🌱 I’m currently learning HTML and CSS
+- 💞️ I’m looking to collaborate on nowhere.
+- 📫 How to reach me rickscratch1117@gmail.com
